@@ -1,0 +1,52 @@
+.carousel1 {
+  background-image: url("../../assets/1.jpg");
+  width: 300px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+.carousel2 {
+  background-image: url("../../assets/2.jpg");
+  width: 300px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.carousel3 {
+  background-image: url("../../assets/3.jpg");
+  width: 300px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.carousel4 {
+  background-image: url("../../assets/4.jpg");
+  width: 300px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.carousel5 {
+  background-image: url("../../assets/5.jpg");
+  width: 300px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+.carousel6 {
+  background-image: url("../../assets/6.jpg");
+  width: 300px;
+  height: 400px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 5px;
+}
