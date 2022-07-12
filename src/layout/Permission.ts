@@ -21,6 +21,7 @@ const permissionDelivery = [
     "delivered"
 ]
 export const permissionCustomer = []
+
 export const HasPermision = (userApp: IUserApp) => {
     switch (userApp?.type) {
         case TypeAdmin.Admin:
